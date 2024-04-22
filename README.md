@@ -1,2 +1,2 @@
-# Project-Novavetar-services
-Project
+# About my first project on GitHub
+Project for internship
